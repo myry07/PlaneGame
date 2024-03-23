@@ -2,7 +2,7 @@
 
 VideoLink: https://youtu.be/7wtWToxH_54?feature=shared
 
-Hallo dies ist ein Spiel namens "PlaneGame", das mit der Programmiersprache Python entwickelt wurde. Das Spiel wurde objektorientiert programmiert und verwendet die pygame-Bibliothek.
+Hallo dies ist ein Spiel mit dem namen "PlaneGame", das mit der Programmiersprache Python entwickelt wurde. Das Spiel wurde objektorientiert programmiert und verwendet die pygame-Bibliothek.
 
 Im dritten Semester habe ich mich für das Fach "Signal und System" angemeldet. In dieser Veranstaltung werden wir ein wenig Python-Kenntnisse verwenden. Wir werden die Bibliotheken scipy und numpy verwenden, um Fourier-Transformationen, Laplace-Transformationen usw zu berechnen, und die Ergebnisse mit matplotlib darstellen, um das Verständnis der Veranstaltung zu vertiefen.
 
