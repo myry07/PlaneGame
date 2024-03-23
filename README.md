@@ -4,6 +4,10 @@ VideoLink: https://youtu.be/7wtWToxH_54?feature=shared
 
 Hallo dies ist ein Spiel namens "PlaneGame", das mit der Programmiersprache Python entwickelt wurde. Das Spiel wurde objektorientiert programmiert und verwendet die pygame-Bibliothek.
 
+Im dritten Semester habe ich mich für das Fach "Signal und System" angemeldet. In dieser Veranstaltung werden wir ein wenig Python-Kenntnisse verwenden. Wir werden die Bibliotheken scipy und numpy verwenden, um Fourier-Transformationen, Laplace-Transformationen usw zu berechnen, und die Ergebnisse mit matplotlib darstellen, um das Verständnis der Veranstaltung zu vertiefen.
+
+Ähnlich wie bei dem Spiel "KongFuKing", nachdem ich ein wenig Python-Kenntnisse erlangt habe, möchte ich auch ein Spiel erstellen, um mein Interesse zu wecken und meine Fähigkeiten in diesem Bereich weiterzuentwickeln.
+
 
 ![image](https://github.com/myry07/PlaneGame/blob/main/game01.PNG)
 
