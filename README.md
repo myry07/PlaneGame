@@ -12,7 +12,7 @@ Im dritten Semester habe ich mich für das Fach "Signal und System" angemeldet. 
 ![image](https://github.com/myry07/PlaneGame/blob/main/game01.PNG)
 
 
-Feindliche Flugzeuge werden zufällig innerhalb eines bestimmten Bereichs generiert und können nur seitwärts bewegt werden. Außerdem feuern sie zufällig Projektile ab. Die Steuerung unseres Flugzeugs erfolgt mit den Tasten WASD, während die Taste J benutzt wird, um Projektile abzufeuern.
+Das ist das Spiel allgemain. Feindliche Flugzeuge werden zufällig innerhalb eines bestimmten Bereichs generiert und können nur seitwärts bewegt werden. Außerdem feuern sie zufällig Projektile ab. Die Steuerung unseres Flugzeugs erfolgt mit den Tasten WASD, während die Taste J benutzt wird, um Projektile abzufeuern.
 
 
 ![image](https://github.com/myry07/PlaneGame/blob/main/over.PNG)
