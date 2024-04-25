@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((Constant.Screen_Width, Constant.Screen_Height)
 
 # set framerate
 clock = pygame.time.Clock()
-FPS = 120  # 设置帧率 否则电脑多给力 游戏画面就多给力
+FPS = 120 
 
 # set music
 pygame.mixer.music.load(Constant.absolutePath + "bg.wav")
