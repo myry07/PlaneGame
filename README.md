@@ -12,7 +12,6 @@ Im dritten Semester habe ich mich für das Fach "Signal und System" angemeldet. 
     <img src="https://github.com/myry07/PlaneGame/blob/main/docs/game01.PNG" width="500" height="315“>
 </div>
 
-
 Das ist das Spiel allgemain. Feindliche Flugzeuge werden zufällig innerhalb eines bestimmten Bereichs generiert und können nur seitwärts bewegt werden. Außerdem feuern sie zufällig Projektile ab. Die Steuerung unseres Flugzeugs erfolgt mit den Tasten WASD, während die Taste J benutzt wird, um Projektile abzufeuern.
 
 <div align=center>
@@ -21,13 +20,11 @@ Das ist das Spiel allgemain. Feindliche Flugzeuge werden zufällig innerhalb ein
 
 Sobald ein feindliches Flugzeug getroffen wird, erhält der Spieler einen Punkt. Wenn das Spielerflugzeug von einem feindlichen Flugzeug getroffen wird, endet das Spiel.
 
-
 <div align=center>
     <img src="https://github.com/myry07/PlaneGame/blob/main/docs/score.PNG" width="500" height="315“>
 </div>
 
 Die Punktzahlen jeder Spielrunde werden in einem separaten Ordner namens "record" gespeichert. Mit Hilfe der matplotlib-Bibliothek werden diese Punktzahlen in einer anderen Hauptmethode visualisiert.
-
 
 <div align=center>
     <img src="https://github.com/myry07/PlaneGame/blob/main/docs/draw.PNG" width="500" height="315“>
