@@ -8,7 +8,6 @@ Im dritten Semester habe ich mich für das Fach "Signal und System" angemeldet. 
 
 Ähnlich wie bei dem Spiel "KongFuKing", nachdem ich ein wenig Python-Kenntnisse erlangt habe, möchte ich auch ein Spiel erstellen, um mein Interesse zu wecken und meine Fähigkeiten in diesem Bereich weiterzuentwickeln.
 
-
 <div align=center>
     <img src="https://github.com/myry07/PlaneGame/blob/main/docs/game01.PNG" width="500" height="315“>
 </div>
